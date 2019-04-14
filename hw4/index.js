@@ -14,7 +14,7 @@ const examples = {
   'example3':
       'Scepticism was as much the result of knowledge, as knowledge is of scepticism.',
   'example4':
-      'It is a truth universally acknowledged, that a single man in possession of a good fortune, must be in want of a wife.'
+      'It is a truth universally acknowledged, that a single man in possession of a good fortune, must be in want of a wife.',
 };
 
 function status(statusText) {
