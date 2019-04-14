@@ -8,13 +8,13 @@ const HOSTED_URLS = {
 
 const examples = {
   'example1':
-      'Alice was beginning to get very tired of sitting by her sister on the bank.',
+      'The pertinacity of her friend seemed more than she could bear .',
   'example2':
-      'Buda-Pesth seems a wonderful place.',
+      'Her father took a handful of peas , and , stooping , walked slowly along the line , letting the seed trickle through his fingers .',
   'example3':
-      'Scepticism was as much the result of knowledge, as knowledge is of scepticism.',
+      'Thither , full fraught with mischievous revenge , Accursed , and in a cursed hour , he hies .',
   'example4':
-      'It is a truth universally acknowledged, that a single man in possession of a good fortune, must be in want of a wife.',
+      'Man delights not me ; no , nor Woman neither ; though by your smiling you seeme to say so',
 };
 
 function status(statusText) {
